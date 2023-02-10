@@ -70,5 +70,16 @@ export default class Tree {
             }
         }
     }
-    
+    delete(data) {
+        const root = this.root;
+        if (root === null) {
+            return;
+        }
+        let deletedNode = null;
+        let nodesToCheck = [root];
+        if (this.root.data == data) {
+            deletedNode = this.root;
+        }
+        //where I left off today
+    }
 }
