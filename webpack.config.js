@@ -10,7 +10,8 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-          title: 'Binary Search Tree',
+            template: './src/index.html',
+            title: 'Binary Search Tree',
         }),
     ],
     output: {

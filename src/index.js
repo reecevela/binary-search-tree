@@ -10,7 +10,7 @@ function generateRandomNumbers(size) {
     return arr;
 }
 
-const randomNumbers = generateRandomNumbers(25);
+const randomNumbers = generateRandomNumbers(15);
 const testTree = new Tree(randomNumbers);
 
 log(testTree.root);
