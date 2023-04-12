@@ -1,4 +1,4 @@
 # Binary-Search-Tree
  A fully functional and balanced binary search tree data structure. I built this while learning about data structures and algorithms, and I've got to say that it's much more difficult than Linked Lists were!
  
- View Live at [reecevela.github.io/binary-search-tree](reecevela.github.io/binary-search-tree)
+ View Live at [reecevela.github.io/binary-search-tree](https://reecevela.github.io/binary-search-tree)
